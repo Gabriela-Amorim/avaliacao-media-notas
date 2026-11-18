@@ -16,7 +16,9 @@ O projeto utiliza JUnit 5 para testes unitários e Cucumber para testes de compo
 Integrantes:
 
 Gabriela Asevedo de Amorim
+
 Guilherme Lucas de Souza Ribeiro
+
 Lavínia Lucia Martins
 
 Instruções de execução
